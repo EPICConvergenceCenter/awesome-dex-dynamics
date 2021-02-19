@@ -12,3 +12,6 @@ Awesome Archives of decentralized exchanges
 
 ## Simple DEX Templates
 - https://github.com/vadost/exchange
+
+## Advanced DEX Templates
+- https://github.com/mdexSwap
