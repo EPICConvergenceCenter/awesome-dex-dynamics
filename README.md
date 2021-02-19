@@ -9,3 +9,6 @@ Awesome Archives of decentralized exchanges
 
 ## Onchain DEX on AngularJS
 - https://github.com/TarasRohovets/dex_onchain_solidity_angular
+
+## Simple DEX Templates
+- https://github.com/vadost/exchange
