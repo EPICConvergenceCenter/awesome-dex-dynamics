@@ -15,3 +15,6 @@ Awesome Archives of decentralized exchanges
 
 ## Advanced DEX Templates
 - https://github.com/mdexSwap
+
+## Layer 2 DEX
+- https://blogs.loopring.org/loopring-to-distribute-all-remaining-v1-staking-rewards-on-l2/
